@@ -20,3 +20,6 @@ Located in Moscow, 19 years old.
 * Samsung IT Academy
     * Java/Kotlin mobile development
 * RSSchool
+
+## My favorite quote 
+> Нельзя стать чемпионом мира, реально взвешивая свои шансы на поражение
